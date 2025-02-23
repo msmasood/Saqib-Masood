@@ -12,4 +12,4 @@ Passionate about leveraging geospatial data and AI to solve climate and urban ch
 - [Real-Time Traffic Pattern Prediction](#)  
 - [Disease Outbreak Risk Mapping](#)  
 
-📫 **Connect**: [LinkedIn]([https://www.linkedin.com/in/smasoodpk/]) | [Portfolio](#) | [Email](msmasood@live.com)  
+📫 **Connect**: [LinkedIn]([https://www.linkedin.com/in/smasoodpk) | [Portfolio](#) | [Email](msmasood@live.com)  
