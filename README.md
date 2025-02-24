@@ -1,15 +1,42 @@
-# 👋 Hi, I'm [Saqib Masood]  
+# 👋 Hi, I'm Saqib Masood  
 **GIS Developer | Data Scientist**  
-Passionate about leveraging geospatial data and AI to solve climate and urban challenges.  
+🌍 Spatial Data Wizard | 🤖 Machine Learning Enthusiast | 🛰️ Remote Sensing & LIDAR Expert  
 
-## 🛠️ Skills  
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)  
-![PostGIS](https://img.shields.io/badge/PostGIS-Advanced-336791?logo=postgresql)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?logo=tensorflow)  
+---
 
-## 🌟 Featured Projects  
-- [Climate Change Impact Analysis](#)  
-- [Real-Time Traffic Pattern Prediction](#)  
-- [Disease Outbreak Risk Mapping](#)  
+### 🛠️ **Technical Skills**  
+- **GIS Tools**: ArcGIS Pro, QGIS, PostGIS, GeoServer, GDAL  
+- **Data Science**: Python (Pandas, Scikit-learn, TensorFlow), R, SQL  
+- **Cloud**: AWS (S3, Lambda), Google Earth Engine, Docker  
+- **Visualization**: Leaflet, Tableau, Power BI, ArcGIS Online  
 
-📫 **Connect**: [LinkedIn](https://www.linkedin.com/in/smasoodpk) | [Portfolio](#) | [Email](msmasood@live.com)  
+---
+
+### 🌟 **Featured Projects**  
+
+#### [🌡️ Climate Change Impact Analysis](https://github.com/saqib-masood/climate-change-impact)  
+- Analyzed temperature/precipitation trends using **30+ years of NOAA data**.  
+- Built predictive models with **SARIMA** and **Random Forest**.  
+- **Tools**: Python, Google Earth Engine, NetCDF, Matplotlib.  
+
+#### [🚦 Real-Time Traffic Pattern Prediction](https://github.com/saqib-masood/traffic-pattern-prediction)  
+- Predicted traffic congestion using **GPS data** and **LSTM networks**.  
+- Integrated with **ArcGIS Online** for real-time dashboards.  
+- **Tools**: TensorFlow, GeoPandas, Kafka, AWS Lambda.  
+
+#### [🦠 Disease Outbreak Risk Mapping](https://github.com/saqib-masood/disease-outbreak-mapping)  
+- Mapped malaria risk zones in Sub-Saharan Africa using **satellite imagery** and **health data**.  
+- Automated workflows with **PyQGIS** and **PostGIS**.  
+- **Tools**: Rasterio, Scikit-learn, OpenStreetMap.  
+
+---
+
+### 📈 **GitHub Stats**  
+[![Saqib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saqib-masood&show_icons=true&theme=dark)](https://github.com/saqib-masood)  
+
+---
+
+### 📫 **Connect With Me**  
+- [LinkedIn](https://www.linkedin.com/in/smasoodpk/)  
+- [Portfolio](https://visiontact.com)  
+- saqib.masood@visiontact.com  
