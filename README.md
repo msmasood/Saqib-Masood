@@ -3,7 +3,7 @@
 **Sr. Data Analyst | Agentic AI Developer | GIS & Geospatial Specialist | Turning complex data into actionable insights.**  
 I specialize in **AI-powered automation**, **Agentic AI development**, and **GIS-based geospatial intelligence** — building intelligent agents that analyze, automate, and visualize complex datasets. With over **15+ years of professional experience**, I bring a unique blend of **data science, AI engineering, and geospatial expertise** to create impactful solutions for industries ranging from **finance to urban planning** by bringing together expertise in **Agentic AI**, **Data Science**, and **Geospatial Intelligence** to deliver innovative, real-world solutions.  
 
-🌐 [LinkedIn](https://www.linkedin.com/in/smasoodpk/) | 📊 [Kaggle](https://www.kaggle.com/yourusername) | 💻 [GitHub](https://github.com/msmasood)
+🌐 [LinkedIn](https://www.linkedin.com/in/smasoodpk/) | 📊 [Kaggle](https://www.kaggle.com/isaqibmasood) | 💻 [GitHub](https://github.com/msmasood)
 
 ---
 ## 🏆 **Achievements**
@@ -80,8 +80,9 @@ A GIS-based system for monitoring crop health, land use, and irrigation patterns
 
 ## 📬 Connect & Collaborate
 - 🌐 **LinkedIn:** [linkedin.com/in/smasoodpk](https://www.linkedin.com/in/smasoodpk/)  
-- 📊 **Kaggle:** [kaggle.com/yourusername](https://www.kaggle.com/yourusername)  
-- 📧 **Email:** your.email@example.com  
+- 📊 **Kaggle:** [kaggle.com/isaqibmasood](https://www.kaggle.com/isaqibmasood)  
+- 📧 **Email:** saqib.masood@visiontact.com
+    
 
 ---
 💡 *I’m open to collaborations on AI, Data Science, and Geospatial Intelligence projects.*
