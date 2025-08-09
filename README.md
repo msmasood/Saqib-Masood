@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Saqib Masood
 
-**Sr. Data Analyst | Agentic AI Developer | GIS & Geospatial Specialist**  
-Bringing together expertise in **Agentic AI**, **Data Science**, and **Geospatial Intelligence** to deliver innovative, real-world solutions.  
-Founder of **Vision Tact – FZCO** | Turning complex data into actionable insights.
+**Sr. Data Analyst | Agentic AI Developer | GIS & Geospatial Specialist | Turning complex data into actionable insights.**  
+I specialize in **AI-powered automation**, **Agentic AI development**, and **GIS-based geospatial intelligence** — building intelligent agents that analyze, automate, and visualize complex datasets. With over **15+ years of professional experience**, I bring a unique blend of **data science, AI engineering, and geospatial expertise** to create impactful solutions for industries ranging from **finance to urban planning** by bringing together expertise in **Agentic AI**, **Data Science**, and **Geospatial Intelligence** to deliver innovative, real-world solutions.  
 
 🌐 [LinkedIn](https://www.linkedin.com/in/smasoodpk/) | 📊 [Kaggle](https://www.kaggle.com/yourusername) | 💻 [GitHub](https://github.com/msmasood)
 
 ---
+## 🏆 **Achievements**
+- Built **9+ full-stack AI & GIS projects** deployed for real-world use.
+- Expertise in **FAISS vector search** for scalable AI applications.
+- Active contributor to **open-source AI and GIS communities**.
 
 ## 🚀 Featured Agentic AI Projects
 
