@@ -47,20 +47,20 @@ Real-time social listening agent analyzing sentiment and detecting viral trends 
 
 ## 🌐 Featured GIS Projects  
 
-### 7️⃣ Urban Infrastructure GIS Mapping  
-Comprehensive GIS mapping system for urban infrastructure, integrating spatial databases, zoning, and utility networks.  
-🔗 **Repo:** [urban-infrastructure-gis](https://github.com/msmasood/urban-infrastructure-gis)  
-🛠 **Skills:** ArcGIS, QGIS, PostGIS, Geopandas, Python  
+### 7️⃣ Climate Change Impact Analysis  
+Analyzes NOAA climate datasets to detect and forecast long-term climate change trends.  
+🔗 **Repo:** [Climate-Change-Impact](https://github.com/msmasood/Climate-Change-Impact)  
+🛠 **Skills:** Python, Pandas, Matplotlib, NOAA API, Climate Data Analysis  
 
-### 8️⃣ Disaster Risk & Hazard Mapping  
-Geospatial risk mapping solution for disaster-prone areas, using satellite data and predictive models for risk assessment.  
-🔗 **Repo:** [disaster-risk-mapping](https://github.com/msmasood/disaster-risk-mapping)  
-🛠 **Skills:** ArcGIS, Remote Sensing, Raster Analysis, Python, GDAL  
+### 8️⃣ Real-Time Traffic Pattern Prediction  
+Uses LSTM deep learning models and ArcGIS dashboards to predict urban traffic congestion.  
+🔗 **Repo:** [Traffic-Pattern-Prediction](https://github.com/msmasood/Traffic-Pattern-Prediction)  
+🛠 **Skills:** LSTM, TensorFlow, ArcGIS API, Pandas, NumPy  
 
-### 9️⃣ Agricultural Land Use & Crop Monitoring  
-GIS-based crop monitoring system integrating satellite imagery and NDVI analysis for yield optimization.  
-🔗 **Repo:** [agriculture-landuse-monitoring](https://github.com/msmasood/agriculture-landuse-monitoring)  
-🛠 **Skills:** QGIS, SentinelHub API, NDVI, Geopandas, Python  
+### 9️⃣ Disease Outbreak Risk Mapping  
+Integrates satellite and health datasets to generate outbreak risk maps using PyQGIS automation.  
+🔗 **Repo:** [Disease-Outbreak-Mapping](https://github.com/msmasood/Disease-Outbreak-Mapping)  
+🛠 **Skills:** PyQGIS, Sentinel-2, Rasterio, Pandas, Geospatial Modelling    
 
 ---
 
