@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 👋 Saqib Masood — AI, GIS & Automation Specialist  
+# 👋 Saqib Masood — Agentic AI Automation & Spatial GIS Data Scienct Consultant    
 
 Hi, I'm **Saqib Masood** — a technology-driven professional specializing in **Agentic AI Systems**, **Geospatial Intelligence**, and **Automation Solutions**. With a strong background in **Data Science, GIS, and AI**, I build intelligent agents that solve real-world problems across industries.  
 
@@ -74,4 +73,3 @@ GIS-based crop monitoring system integrating satellite imagery and NDVI analysis
 
 ---
 💡 *I’m open to collaborations on AI, Data Science, and Geospatial Intelligence projects.*
->>>>>>> 22c50552000979d29d523c5999324c8a7ab9caac
